@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+
+# pipenv environment
+Pipfile
+Pipfile.lock
+
+# Poetry
+poetry.lock
+.pdm.toml
+
+# Pyre type checker
+.pyre/
+
+# Pyright type checker
+.pyright/
+
+# Mypy type checker
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+
+# VSCode
+.vscode/
+*.code-workspace
+
+# pycharm
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+*.out
+
+# dotenv
+.env
+.env.*
+.envrc
+
+temp.pdf
